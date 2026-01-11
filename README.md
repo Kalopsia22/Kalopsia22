@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharva Rewatkar
 - 👀 I’m interested in Sciences that affect Life
-- 🌱 I’m currently pursuing B.Tech in CSE(AI&ML)
+- 🌱 I’m currently pursuing MBA in Digital Transformation
 - 📫 My mail is redolent.souvenirs@gmail.com ...
 
 <!---
